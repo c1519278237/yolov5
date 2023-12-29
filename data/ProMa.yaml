@@ -1,0 +1,9 @@
+train: D:/PycharmProjects/ProjectManage/yolov5master/ProMa/images/train
+val: D:/PycharmProjects/ProjectManage/yolov5master/ProMa/labels/train
+
+# number of classes
+nc: 16
+
+# class names
+names: ["dog","person","cat","tv","car","meatballs","marinara sauce","tomato soup","chicken noodle soup","french onion soup","chicken breast","ribs","pulled pork","hamburger","cavity","Nuclear","fire"]
+
